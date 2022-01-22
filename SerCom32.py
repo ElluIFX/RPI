@@ -74,17 +74,4 @@ class SerCom32:
 
 
 if __name__ == '__main__':
-    ser = SerCom32('/dev/ttyAMA0', 115200)
-    print('go')
-    try:
-        while True:
-            ser.read_serial()
-            if ser.rx_done():
-                str = ser.rx_data()
-                ser.write_str_serial(str)
-                print(str)
-                time.sleep(0.2)
-                ser.send_form_data([0x12,0x13,0x14])
-    except KeyboardInterrupt:
-        print('\n\nKeyboardInterrupt, serial port closed.')
-        ser.close()
+    print('This Module can not be run alone.')
