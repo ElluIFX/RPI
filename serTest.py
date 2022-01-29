@@ -1,17 +1,16 @@
-
-from wiringpi import delayMicroseconds, millis, wiringPiSetup
-import time
 from SerCom32 import SerCom32
-ser = SerCom32('/dev/ttyAMA0', 115200)
+ser = SerCom32('/dev/ttyUSB0', 115200)
+
+
 def main():
     while True:
-        # print(millis())
-        # delayMicroseconds(100*1000)
-        ser.read_serial()
-        if ser.rx_done():
-            str = '------- R X -------\n'+ser.rx_data()
-            print(str)
-    
+        ser.read_byte_serial()
+        ser.readConfig(readByteStartBit=[
+                       0x54], packLengthMode=True, packLengthAdd=8, packLengthMulti=3, byteDataCheck='No')
+        if ser.rx_byte_done():
+            print("RADAR:"+ser.rx_byte_data())
+
+
 if __name__ == '__main__':
     try:
         main()
