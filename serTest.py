@@ -1,19 +1,9 @@
 from SerCom32 import SerCom32
-ser = SerCom32('/dev/ttyUSB0', 115200)
 
-
-def main():
-    while True:
-        ser.read_byte_serial()
-        ser.readConfig(readByteStartBit=[
-                       0x54], packLengthMode=True, packLengthAdd=8, packLengthMulti=3, byteDataCheck='No')
-        if ser.rx_byte_done():
-            print("RADAR:"+ser.rx_byte_data())
-
-
-if __name__ == '__main__':
-    try:
-        main()
-    except KeyboardInterrupt:
-        print('\n\nKeyboardInterrupt, serial port closed.')
-        ser.close()
+ser = SerCom32("/dev/serial0", 115200)
+print("start")
+ser.sendConfig(startBit=[0xAA, 0x22],optionBit = [0x01], stopBit=[], useSumCheck=False)
+while True:
+    s = input("send: ")
+    sended = ser.send_form_data(s)
+    print(f"sended: {' '.join([hex(i) for i in sended])}")
