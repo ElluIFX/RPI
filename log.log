@@ -1954,3 +1954,1188 @@ Start to send image
 
 [WARNING] (2022-Apr-06 20:30:10) <logger.py:55|MainThread>
 Server closed
+
+[INFO] (2022-Apr-06 20:49:07) <logger.py:52|MainThread>
+Server online: 6756
+
+[INFO] (2022-Apr-06 20:49:08) <logger.py:52|MainThread>
+Waiting for client...
+
+[INFO] (2022-Apr-06 20:49:10) <logger.py:52|MainThread>
+Connected by: ('192.168.137.1', 5014)
+
+[INFO] (2022-Apr-06 20:49:10) <logger.py:52|MainThread>
+Recived option: {'W': 848, 'H': 480, 'F': 30, 'Q': 70, 'P': 0, 'T': 0}
+
+[INFO] (2022-Apr-06 20:49:10) <logger.py:52|MainThread>
+Initiate the camera
+
+[INFO] (2022-Apr-06 20:49:10) <logger.py:52|MainThread>
+Camera info: 848.0x480.0@20.0
+
+[INFO] (2022-Apr-06 20:49:10) <logger.py:52|MainThread>
+Start to send image
+
+[INFO] (2022-Apr-06 20:50:01) <logger.py:52|MainThread>
+Exit the connection
+
+[INFO] (2022-Apr-06 20:50:01) <logger.py:52|MainThread>
+Waiting for client...
+
+[INFO] (2022-Apr-07 16:24:24) <logger.py:52|MainThread>
+FC: Serial port opened
+
+[INFO] (2022-Apr-07 16:24:24) <logger.py:52|Thread-1>
+FC: Read thread started
+
+[INFO] (2022-Apr-07 16:24:24) <logger.py:52|Thread-2>
+FC: Update state thread started
+
+[INFO] (2022-Apr-07 16:24:43) <logger.py:52|MainThread>
+FC: Serial port opened
+
+[INFO] (2022-Apr-07 16:24:43) <logger.py:52|Thread-1>
+FC: Read thread started
+
+[INFO] (2022-Apr-07 16:24:43) <logger.py:52|MainThread>
+FC: Waiting for FC connection
+
+[INFO] (2022-Apr-07 16:25:15) <logger.py:52|MainThread>
+FC: Serial port opened
+
+[INFO] (2022-Apr-07 16:25:15) <logger.py:52|Thread-1>
+FC: Read thread started
+
+[INFO] (2022-Apr-07 16:25:15) <logger.py:52|Thread-2>
+FC: Update state thread started
+
+[INFO] (2022-Apr-07 16:29:54) <logger.py:52|MainThread>
+FC: Serial port opened
+
+[INFO] (2022-Apr-07 16:29:54) <logger.py:52|Thread-1>
+FC: Read thread started
+
+[INFO] (2022-Apr-07 16:29:54) <logger.py:52|Thread-2>
+FC: Update state thread started
+
+[INFO] (2022-Apr-07 16:29:57) <logger.py:52|MainThread>
+FC: Threads closed, FC offline
+
+[INFO] (2022-Apr-07 16:30:12) <logger.py:52|MainThread>
+FC: Serial port opened
+
+[INFO] (2022-Apr-07 16:30:12) <logger.py:52|Thread-1>
+FC: Read thread started
+
+[INFO] (2022-Apr-07 16:30:12) <logger.py:52|MainThread>
+FC: Waiting for FC connection
+
+[ERROR] (2022-Apr-07 16:30:18) <logger.py:58|MainThread>
+FC: Wait for connect timeout
+
+[INFO] (2022-Apr-07 16:30:18) <logger.py:52|Thread-2>
+FC: Update state thread started
+
+[INFO] (2022-Apr-07 16:37:23) <logger.py:52|MainThread>
+FC: Serial port opened
+
+[INFO] (2022-Apr-07 16:37:23) <logger.py:52|Thread-1>
+FC: Read thread started
+
+[INFO] (2022-Apr-07 16:37:23) <logger.py:52|Thread-2>
+FC: Update state thread started
+
+[INFO] (2022-Apr-07 16:37:23) <logger.py:52|MainThread>
+FC: Waiting for FC connection
+
+[ERROR] (2022-Apr-07 16:37:29) <logger.py:58|MainThread>
+FC: Wait for connect timeout
+
+[INFO] (2022-Apr-07 16:37:46) <logger.py:52|MainThread>
+FC: Threads closed, FC offline
+
+[INFO] (2022-Apr-07 16:37:47) <logger.py:52|MainThread>
+FC: Serial port opened
+
+[INFO] (2022-Apr-07 16:37:47) <logger.py:52|Thread-1>
+FC: Read thread started
+
+[INFO] (2022-Apr-07 16:37:47) <logger.py:52|Thread-2>
+FC: Update state thread started
+
+[INFO] (2022-Apr-07 16:37:47) <logger.py:52|MainThread>
+FC: Waiting for FC connection
+
+[ERROR] (2022-Apr-07 16:37:53) <logger.py:58|MainThread>
+FC: Wait for connect timeout
+
+[INFO] (2022-Apr-07 16:37:56) <logger.py:52|MainThread>
+FC: Threads closed, FC offline
+
+[INFO] (2022-Apr-07 16:38:47) <logger.py:52|MainThread>
+FC: Serial port opened
+
+[INFO] (2022-Apr-07 16:38:47) <logger.py:52|Thread-1>
+FC: Read thread started
+
+[INFO] (2022-Apr-07 16:38:47) <logger.py:52|Thread-2>
+FC: Update state thread started
+
+[INFO] (2022-Apr-07 16:38:56) <logger.py:52|MainThread>
+FC: Threads closed, FC offline
+
+[INFO] (2022-Apr-07 16:39:35) <logger.py:52|MainThread>
+FC: Serial port opened
+
+[INFO] (2022-Apr-07 16:39:35) <logger.py:52|Thread-1>
+FC: Read thread started
+
+[INFO] (2022-Apr-07 16:39:35) <logger.py:52|Thread-2>
+FC: Update state thread started
+
+[INFO] (2022-Apr-07 16:39:35) <logger.py:52|MainThread>
+FC: Threads closed, FC offline
+
+[INFO] (2022-Apr-07 16:39:38) <logger.py:52|MainThread>
+FC: Serial port opened
+
+[INFO] (2022-Apr-07 16:39:38) <logger.py:52|Thread-1>
+FC: Read thread started
+
+[INFO] (2022-Apr-07 16:39:38) <logger.py:52|Thread-2>
+FC: Update state thread started
+
+[INFO] (2022-Apr-07 16:39:49) <logger.py:52|MainThread>
+FC: Threads closed, FC offline
+
+[INFO] (2022-Apr-07 16:39:50) <logger.py:52|MainThread>
+FC: Serial port opened
+
+[INFO] (2022-Apr-07 16:39:50) <logger.py:52|Thread-1>
+FC: Read thread started
+
+[INFO] (2022-Apr-07 16:39:50) <logger.py:52|Thread-2>
+FC: Update state thread started
+
+[INFO] (2022-Apr-07 16:39:50) <logger.py:52|MainThread>
+FC: Waiting for FC connection
+
+[ERROR] (2022-Apr-07 16:39:56) <logger.py:58|MainThread>
+FC: Wait for connect timeout
+
+[INFO] (2022-Apr-07 16:39:56) <logger.py:52|MainThread>
+FC: Threads closed, FC offline
+
+[INFO] (2022-Apr-07 16:40:01) <logger.py:52|MainThread>
+FC: Serial port opened
+
+[INFO] (2022-Apr-07 16:40:01) <logger.py:52|Thread-1>
+FC: Read thread started
+
+[INFO] (2022-Apr-07 16:40:01) <logger.py:52|Thread-2>
+FC: Update state thread started
+
+[INFO] (2022-Apr-07 16:40:01) <logger.py:52|MainThread>
+FC: Waiting for FC connection
+
+[ERROR] (2022-Apr-07 16:40:07) <logger.py:58|MainThread>
+FC: Wait for connect timeout
+
+[INFO] (2022-Apr-07 16:40:07) <logger.py:52|MainThread>
+FC: Threads closed, FC offline
+
+[INFO] (2022-Apr-07 16:47:33) <logger.py:52|MainThread>
+FC: Serial port opened
+
+[INFO] (2022-Apr-07 16:47:33) <logger.py:52|Thread-1>
+FC: Read thread started
+
+[INFO] (2022-Apr-07 16:47:33) <logger.py:52|Thread-2>
+FC: Update state thread started
+
+[INFO] (2022-Apr-07 16:47:33) <logger.py:52|MainThread>
+FC: Waiting for FC connection
+
+[ERROR] (2022-Apr-07 16:47:33) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:33) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:33) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:33) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:33) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:33) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:33) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:33) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:33) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:34) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:34) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:34) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:34) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:34) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:34) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:34) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:34) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:34) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:34) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:35) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:35) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:35) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:35) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:35) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:35) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:35) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:35) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:35) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:35) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:36) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:36) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:36) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:36) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:36) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:36) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:36) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:36) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:36) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:36) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:37) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:37) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:37) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:37) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:37) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:37) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:37) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:37) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:37) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:37) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:38) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:38) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:38) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:38) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:38) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:38) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:38) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:38) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:38) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:38) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:39) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:39) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:39) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:39) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:39) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:39) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:39) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:39) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:39) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:39) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:40) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:40) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:40) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:40) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:40) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:40) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:40) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:40) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:40) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:40) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:41) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:41) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:41) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:41) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:41) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:41) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:41) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:41) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:41) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:41) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:42) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:42) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:42) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:42) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:42) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:42) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:42) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:42) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:42) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:42) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:43) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:43) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:43) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:43) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:43) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:43) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:43) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:43) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:43) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:43) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:44) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:44) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:44) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:44) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:44) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:44) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:44) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:44) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:44) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:44) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:45) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:45) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:45) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:45) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:45) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:45) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:45) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:45) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:45) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:45) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:46) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:46) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:46) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:46) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:46) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:46) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:46) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:46) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:46) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:46) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:47) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:47) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:47) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:47) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:47) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:47) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:47) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:47) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:47) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:48) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:48) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:48) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:48) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:48) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:48) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:48) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:48) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:48) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:48) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:48) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:49) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:49) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:49) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:49) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:49) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:49) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:49) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:49) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:49) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:49) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:50) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:50) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:50) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:50) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:50) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:50) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:50) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:50) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:50) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:51) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:51) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:51) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:51) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:51) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:51) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:51) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:51) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:51) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:51) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:52) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:52) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:52) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:52) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:52) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:52) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:52) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:52) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:52) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:52) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:52) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:53) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:53) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:53) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:53) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:53) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:53) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:53) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:53) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:53) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:53) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:54) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:54) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:54) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:54) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:54) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:54) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:54) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:54) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:54) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:54) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:55) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:55) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:55) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:55) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:55) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:55) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:55) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:55) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:55) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:56) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:56) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:56) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:56) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:56) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:56) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:56) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:56) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:56) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:56) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:56) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:57) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:57) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:57) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:57) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[ERROR] (2022-Apr-07 16:47:57) <logger.py:58|Thread-2>
+FC: Update state thread exception: local variable 'find' referenced before assignment
+
+[INFO] (2022-Apr-07 16:47:59) <logger.py:52|MainThread>
+FC: Serial port opened
+
+[INFO] (2022-Apr-07 16:47:59) <logger.py:52|Thread-1>
+FC: Read thread started
+
+[INFO] (2022-Apr-07 16:47:59) <logger.py:52|Thread-2>
+FC: Update state thread started
+
+[INFO] (2022-Apr-07 16:47:59) <logger.py:52|MainThread>
+FC: Waiting for FC connection
+
+[ERROR] (2022-Apr-07 16:48:05) <logger.py:58|MainThread>
+FC: Wait for connect timeout
+
+[INFO] (2022-Apr-07 16:48:10) <logger.py:52|MainThread>
+FC: Threads closed, FC offline
+
+[INFO] (2022-Apr-07 16:48:46) <logger.py:52|MainThread>
+FC: Serial port opened
+
+[INFO] (2022-Apr-07 16:48:46) <logger.py:52|Thread-1>
+FC: Read thread started
+
+[INFO] (2022-Apr-07 16:48:46) <logger.py:52|Thread-2>
+FC: Update state thread started
+
+[INFO] (2022-Apr-07 16:48:46) <logger.py:52|MainThread>
+FC: Waiting for FC connection
+
+[INFO] (2022-Apr-07 16:48:46) <logger.py:52|MainThread>
+FC: Connected
+
+[INFO] (2022-Apr-07 16:48:48) <logger.py:52|MainThread>
+FC: Threads closed, FC offline
+
+[INFO] (2022-Apr-07 16:48:54) <logger.py:52|MainThread>
+FC: Serial port opened
+
+[INFO] (2022-Apr-07 16:48:54) <logger.py:52|Thread-1>
+FC: Read thread started
+
+[INFO] (2022-Apr-07 16:48:54) <logger.py:52|Thread-2>
+FC: Update state thread started
+
+[INFO] (2022-Apr-07 16:48:54) <logger.py:52|MainThread>
+FC: Waiting for FC connection
+
+[INFO] (2022-Apr-07 16:48:55) <logger.py:52|MainThread>
+FC: Connected
+
+[INFO] (2022-Apr-07 16:50:18) <logger.py:52|MainThread>
+FC: Threads closed, FC offline
+
+[INFO] (2022-Apr-07 16:58:46) <logger.py:52|MainThread>
+FC: Serial port opened
+
+[INFO] (2022-Apr-07 16:58:46) <logger.py:52|Thread-1>
+FC: Read thread started
+
+[INFO] (2022-Apr-07 16:58:46) <logger.py:52|Thread-2>
+FC: Update state thread started
+
+[INFO] (2022-Apr-07 16:58:46) <logger.py:52|MainThread>
+FC: Waiting for FC connection
+
+[INFO] (2022-Apr-07 16:58:46) <logger.py:52|MainThread>
+FC: Connected
+
+[INFO] (2022-Apr-07 16:59:21) <logger.py:52|MainThread>
+FC: Threads closed, FC offline
+
+[INFO] (2022-Apr-07 16:59:22) <logger.py:52|MainThread>
+FC: Serial port opened
+
+[INFO] (2022-Apr-07 16:59:22) <logger.py:52|Thread-1>
+FC: Read thread started
+
+[INFO] (2022-Apr-07 16:59:22) <logger.py:52|Thread-2>
+FC: Update state thread started
+
+[INFO] (2022-Apr-07 16:59:22) <logger.py:52|MainThread>
+FC: Waiting for FC connection
+
+[INFO] (2022-Apr-07 16:59:23) <logger.py:52|MainThread>
+FC: Connected
+
+[INFO] (2022-Apr-07 16:59:31) <logger.py:52|MainThread>
+FC: Threads closed, FC offline
+
+[INFO] (2022-Apr-07 16:59:32) <logger.py:52|MainThread>
+FC: Serial port opened
+
+[INFO] (2022-Apr-07 16:59:32) <logger.py:52|Thread-1>
+FC: Read thread started
+
+[INFO] (2022-Apr-07 16:59:32) <logger.py:52|Thread-2>
+FC: Update state thread started
+
+[INFO] (2022-Apr-07 16:59:32) <logger.py:52|MainThread>
+FC: Waiting for FC connection
+
+[INFO] (2022-Apr-07 16:59:33) <logger.py:52|MainThread>
+FC: Connected
+
+[INFO] (2022-Apr-07 16:59:34) <logger.py:52|MainThread>
+FC: Threads closed, FC offline
+
+[INFO] (2022-Apr-07 16:59:40) <logger.py:52|MainThread>
+FC: Serial port opened
+
+[INFO] (2022-Apr-07 16:59:40) <logger.py:52|Thread-1>
+FC: Read thread started
+
+[INFO] (2022-Apr-07 16:59:40) <logger.py:52|Thread-2>
+FC: Update state thread started
+
+[INFO] (2022-Apr-07 16:59:40) <logger.py:52|MainThread>
+FC: Waiting for FC connection
+
+[INFO] (2022-Apr-07 16:59:41) <logger.py:52|MainThread>
+FC: Connected
+
+[INFO] (2022-Apr-07 16:59:54) <logger.py:52|MainThread>
+FC: Threads closed, FC offline
+
+[INFO] (2022-Apr-07 17:00:01) <logger.py:52|MainThread>
+FC: Serial port opened
+
+[INFO] (2022-Apr-07 17:00:01) <logger.py:52|Thread-1>
+FC: Read thread started
+
+[INFO] (2022-Apr-07 17:00:01) <logger.py:52|Thread-2>
+FC: Update state thread started
+
+[INFO] (2022-Apr-07 17:00:01) <logger.py:52|MainThread>
+FC: Waiting for FC connection
+
+[INFO] (2022-Apr-07 17:00:02) <logger.py:52|MainThread>
+FC: Connected
+
+[INFO] (2022-Apr-07 17:00:05) <logger.py:52|MainThread>
+FC: Threads closed, FC offline
+
+[INFO] (2022-Apr-07 17:00:09) <logger.py:52|MainThread>
+FC: Serial port opened
+
+[INFO] (2022-Apr-07 17:00:09) <logger.py:52|Thread-1>
+FC: Read thread started
+
+[INFO] (2022-Apr-07 17:00:09) <logger.py:52|Thread-2>
+FC: Update state thread started
+
+[INFO] (2022-Apr-07 17:00:09) <logger.py:52|MainThread>
+FC: Waiting for FC connection
+
+[INFO] (2022-Apr-07 17:00:09) <logger.py:52|MainThread>
+FC: Connected
+
+[INFO] (2022-Apr-07 17:00:19) <logger.py:52|MainThread>
+FC: Threads closed, FC offline
+
+[INFO] (2022-Apr-07 17:01:55) <logger.py:52|MainThread>
+FC: Serial port opened
+
+[INFO] (2022-Apr-07 17:01:55) <logger.py:52|Thread-1>
+FC: Read thread started
+
+[INFO] (2022-Apr-07 17:01:55) <logger.py:52|Thread-2>
+FC: Update state thread started
+
+[INFO] (2022-Apr-07 17:01:55) <logger.py:52|MainThread>
+FC: Waiting for FC connection
+
+[INFO] (2022-Apr-07 17:01:55) <logger.py:52|MainThread>
+FC: Connected
+
+[INFO] (2022-Apr-07 17:02:15) <logger.py:52|MainThread>
+FC: Serial port opened
+
+[INFO] (2022-Apr-07 17:02:15) <logger.py:52|Thread-1>
+FC: Read thread started
+
+[INFO] (2022-Apr-07 17:02:15) <logger.py:52|Thread-2>
+FC: Update state thread started
+
+[INFO] (2022-Apr-07 17:02:15) <logger.py:52|MainThread>
+FC: Waiting for FC connection
+
+[INFO] (2022-Apr-07 17:02:16) <logger.py:52|MainThread>
+FC: Connected
+
+[INFO] (2022-Apr-07 17:05:29) <logger.py:52|MainThread>
+FC: Serial port opened
+
+[INFO] (2022-Apr-07 17:05:29) <logger.py:52|Thread-1>
+FC: Read thread started
+
+[INFO] (2022-Apr-07 17:05:29) <logger.py:52|Thread-2>
+FC: Update state thread started
+
+[INFO] (2022-Apr-07 17:05:29) <logger.py:52|MainThread>
+FC: Waiting for FC connection
+
+[INFO] (2022-Apr-07 17:05:30) <logger.py:52|MainThread>
+FC: Connected
+
+[INFO] (2022-Apr-07 17:05:35) <logger.py:52|MainThread>
+FC: Threads closed, FC offline
+
+[INFO] (2022-Apr-07 17:05:54) <logger.py:52|MainThread>
+FC: Serial port opened
+
+[INFO] (2022-Apr-07 17:05:54) <logger.py:52|Thread-1>
+FC: Read thread started
+
+[INFO] (2022-Apr-07 17:05:54) <logger.py:52|Thread-2>
+FC: Update state thread started
+
+[INFO] (2022-Apr-07 17:05:54) <logger.py:52|MainThread>
+FC: Waiting for FC connection
+
+[INFO] (2022-Apr-07 17:05:55) <logger.py:52|MainThread>
+FC: Connected
+
+[INFO] (2022-Apr-07 17:05:57) <logger.py:52|MainThread>
+FC: ESC pressed, exit
+
+[INFO] (2022-Apr-07 17:05:57) <logger.py:52|MainThread>
+FC: Threads closed, FC offline
+
+[INFO] (2022-Apr-07 17:06:20) <logger.py:52|MainThread>
+FC: Serial port opened
+
+[INFO] (2022-Apr-07 17:06:20) <logger.py:52|Thread-1>
+FC: Read thread started
+
+[INFO] (2022-Apr-07 17:06:20) <logger.py:52|Thread-2>
+FC: Update state thread started
+
+[INFO] (2022-Apr-07 17:06:20) <logger.py:52|MainThread>
+FC: Waiting for FC connection
+
+[INFO] (2022-Apr-07 17:06:21) <logger.py:52|MainThread>
+FC: Connected
+
+[INFO] (2022-Apr-07 17:06:23) <logger.py:52|MainThread>
+FC: ESC pressed, exit
+
+[INFO] (2022-Apr-07 17:06:23) <logger.py:52|MainThread>
+FC: Threads closed, FC offline
